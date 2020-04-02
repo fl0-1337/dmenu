@@ -21,6 +21,7 @@ Afterwards enter the following command to build and install dmenu
 See the man page for details.
 
 ## Patches applied
-dmenu-border
-dmenu-center
-dmenu-number
+
+- dmenu-border
+- dmenu-center
+- dmenu-number
